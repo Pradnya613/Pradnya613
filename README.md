@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pradnya_Gade
+- 🌱 I’m currently learning java programming..
+- 📫 AI&DS student :)
